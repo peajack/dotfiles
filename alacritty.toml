@@ -1,0 +1,9 @@
+# take base16 from aarowill/base16-alacritty
+# i dont include it in dotfiles 'cause it is MIT
+# and dotfiles are unlicensed
+
+import = [
+    "~/.config/alacritty/base16-gruvbox-dark-pale-256.toml",
+    "~/.config/alacritty/fonts.toml",
+    "~/.config/alacritty/padding.toml"
+]
